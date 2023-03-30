@@ -1,0 +1,64 @@
+
+body{
+    background-image: url(background\ 1.jpg);
+    background-size: 110%;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    overflow-y:hidden;  
+}
+#heading{
+    font-size:xxx-large;
+    font-family:'Lucida Grande', 'Lucida Sans Unicode';
+    font-weight: bolder;
+    position: fixed;
+    left: 10px;
+    color: rgb(209, 187, 131) ;
+    
+}
+#home{
+    position:relative;
+    left: 330px;
+    top: 12px;
+    width: 40px;
+
+}
+#b1{
+    color:rgb(246, 246, 246);
+    font-size: x-large;
+    border-radius: 30px;
+    border: 2px;
+    background-color: rgba(211, 172, 100, 0.783);
+    position: fixed;
+    width: 260px;
+    height: 130px;
+    left: 65px;
+    top: 300px;
+}
+#b2{
+    color:rgb(246, 246, 246);
+    font-size: x-large;
+    border-radius: 30px;
+    border: 2px;
+    background-color: rgba(211, 172, 100, 0.783);
+    position: fixed;
+    width: 260px;
+    height: 130px;
+    left: 65px;
+    top: 450px;
+}
+#b3{
+    color:rgb(246, 246, 246);
+    font-size: x-large;
+    border-radius: 30px;
+    border: 2px;
+    background-color: rgba(211, 172, 100, 0.783);
+    position: fixed;
+    width: 260px;
+    height: 130px;
+    left: 65px;
+    top: 600px;
+}
+.font{
+    font-family: 'Gill Sans MT';
+    font-style: italic;
+}
